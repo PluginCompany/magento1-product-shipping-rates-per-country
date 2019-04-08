@@ -1,0 +1,15 @@
+{
+    "name": "plugincompany/magento1-product-shipping-rates-per-country",
+    "description": "Product Shipping Rates Per Country for Magento 1 / OpenMage",
+    "type": "magento-module",
+    "license": "MIT",
+    "homepage": "https://plugin.company/magento1-extensions/shipping-rates-per-product-per-country.html",
+    "support": {
+        "issues": "https://github.com/PluginCompany/magento1-product-shipping-rates-per-country/issues",
+        "source": "https://github.com/PluginCompany/magento1-product-shipping-rates-per-country"
+    },
+    "version": "1.2.8",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

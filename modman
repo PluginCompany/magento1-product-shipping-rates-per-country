@@ -1,0 +1,8 @@
+app/code/local/Plugincompany/Shippingproduct app/code/local/Plugincompany/Shippingproduct
+app/code/local/Varien/Data/Form/Element/Pcfixedrate.php app/code/local/Varien/Data/Form/Element/Pcfixedrate.php
+app/code/local/Varien/Data/Form/Element/Pcshipping.php app/code/local/Varien/Data/Form/Element/Pcshipping.php
+app/design/adminhtml/default/default/layout/plugincompany_shippingproduct.xml app/design/adminhtml/default/default/layout/plugincompany_shippingproduct.xml
+app/etc/modules/Plugincompany_Shippingproduct.xml app/etc/modules/Plugincompany_Shippingproduct.xml
+js/plugincompany/jquerynoconflict.js js/plugincompany/jquerynoconflict.js
+js/plugincompany/shippingcountry.js js/plugincompany/shippingcountry.js
+js/plugincompany/shippingcountryfee.js js/plugincompany/shippingcountryfee.js
